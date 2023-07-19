@@ -70,7 +70,7 @@ body {
   background: #a5810d;
   cursor: pointer;
 
-  margin: auto;
+  margin: 10px auto;
 }
 .Movies h3::before {
   content: "Rating ";
